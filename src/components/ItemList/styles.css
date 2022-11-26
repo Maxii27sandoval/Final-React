@@ -1,0 +1,14 @@
+.itemList{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 120px;
+    padding-bottom: 10px;
+}
+
+.mainItemList{
+    padding-right: 70px;
+    padding-left: 70px;
+    background-color: rgba(0, 0, 0, 0.815);
+}

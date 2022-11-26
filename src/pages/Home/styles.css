@@ -1,0 +1,28 @@
+.textoIndex {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textoIndex h1 {
+    color: white;
+    font-size: 45px;
+    font-family: 'Russo One', sans-serif;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 2px;
+}
+
+.homeContainer {
+    height: 100vh;
+}
+
+video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    position: absolute;
+}
+
+
